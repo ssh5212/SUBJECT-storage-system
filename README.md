@@ -7,6 +7,7 @@
 ## 소개
 대표적인 FTL 알고리즘들에 대하여 이해하고, 그 중 Static Sector, Static Block, Dynamic Sector, Dynamic Block에 대해 설계 및 구현을 진행한다.
 
+### FTL 설명
 https://angelplayer.tistory.com/122?category=918549
 
 https://angelplayer.tistory.com/125?category=918549
@@ -14,6 +15,8 @@ https://angelplayer.tistory.com/125?category=918549
 https://angelplayer.tistory.com/127?category=918549
 
 https://angelplayer.tistory.com/129?category=918549
+
+### 설계
 
 
 ## 개발 기능
