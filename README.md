@@ -24,6 +24,7 @@ https://angelplayer.tistory.com/129?category=918549
 
 ## 개발 환경
 ### 언어
+- Python 3.7
 - C Language
 
 ### 개발 환경 & IDE
